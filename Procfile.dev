@@ -1,0 +1,3 @@
+web: bin/rails s
+vite: VITE_RUBY_PORT=3036 bin/vite dev bin/vite dev
+webpacker: bin/webpack-dev-server
